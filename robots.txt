@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smartsolucoesgo.github.io/docs-e2x888/sitemap.xml
